@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MailDedup", "MailDedup\MailDedup.fsproj", "{1BF2CCF3-C2EC-4F80-AC7C-32A4AE975D28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BF2CCF3-C2EC-4F80-AC7C-32A4AE975D28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BF2CCF3-C2EC-4F80-AC7C-32A4AE975D28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BF2CCF3-C2EC-4F80-AC7C-32A4AE975D28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BF2CCF3-C2EC-4F80-AC7C-32A4AE975D28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A480BCB7-6ACF-44B7-9E94-1E633483B395}
+	EndGlobalSection
+EndGlobal
